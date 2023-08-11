@@ -1,1 +1,1 @@
-# character-configurator
+# character-configurator-threejs
